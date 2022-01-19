@@ -24,7 +24,7 @@ import javax.swing.Timer;
 import javax.swing.JCheckBox;
 
 public class Menu {
-	public static String test = "test";
+
 	public static JLabel lblSnake;
 	public static JLabel lblPlay;
 	public static JLabel lblInstructions;
